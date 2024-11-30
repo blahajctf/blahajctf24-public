@@ -2,7 +2,7 @@
 
 ok so the MarkovChain.tsx in `dist` (given to you) and in `src` (actually being hosted) is slightly different (mainly cause I wanted to discourage people from reverse-engineering the flag from the client. I tried.)
 
-## full writeup: http://localhost:4000/BlahajCTF2024/shikanokonokonoko/
+## full writeup: https://rwandi-ctf.github.io/BlahajCTF2024/shikanokonokonoko/
 
 ## Solution
 

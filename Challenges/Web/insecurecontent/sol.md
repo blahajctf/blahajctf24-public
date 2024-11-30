@@ -4,4 +4,4 @@ http://127.0.0.1:8000/greet?name=%3Cscript%3Ewindow.addEventListener%28%22load%2
 
 TLDR its a webrtc exfiltration (DNS prefetch dont work since its headless, and puppeteer is headless)
 
-will make an author writeup later
+full writeup: https://rwandi-ctf.github.io/BlahajCTF2024/insecure-content/
